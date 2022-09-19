@@ -218,7 +218,7 @@ img {
   .lessons {
     color: #ffffff;
     width: 25%;
-    float: right;
+    float: left;
   }
   
   .lesson-icon {
@@ -230,7 +230,6 @@ img {
     position: absolute;
     top: 44%;
     width: 100%;
-    color: white;
   }
   
   .text-contents {
