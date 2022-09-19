@@ -198,7 +198,6 @@ img {
     padding-left: 5%;
     padding-right: 5%;
     text-align: center;
-    float: right;
   }
   
   .heading {
@@ -220,11 +219,12 @@ img {
     color: #ffffff;
     text-align: center;
     width: 25%;
-    float: left;
+    float: right;
   }
   
   .lesson-icon {
     position: relative;
+      float: right;
       
   }
   
