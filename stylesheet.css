@@ -69,11 +69,11 @@ header {
 
 .header-logo {
     float: left;
-    width: 150px;
-    height:65px;
 
 }
-
+.header-logo {
+    width: 150px;
+}
 
 
 .header-list li {
@@ -291,11 +291,9 @@ footer {
 .footer-logo {
     float: left;
     font-size: 30px;
-    width: 150px;
-    height:65px;
 }
 
-.lesson-icon {
+img {
     width: 150px;
     height: 150px;
 }
