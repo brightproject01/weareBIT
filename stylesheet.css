@@ -194,7 +194,7 @@ img {
   
   .lesson-wrapper {
     /* Hapus CSS untuk height */
-    padding-bottom: 5%;
+    padding-bottom: 150px;
     padding-left: 5%;
     padding-right: 5%;
     text-align: center;
