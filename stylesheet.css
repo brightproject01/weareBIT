@@ -209,10 +209,13 @@ img {
   }
   
   .heading h2 {
-    font-weight: normal;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom:50px;
+    padding-top:100px;
   }
   
-  .lesson {
+  .lessons {
     color: #ffffff;
      text-align: center;
     width: 25%;
