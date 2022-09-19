@@ -83,17 +83,19 @@ img {
     padding: 30px 80px;
 }
 .title h2 {
-    color: #000000;
+    color: #ffffff;
     text-align: center;
   }
 
 .title h3 {
   text-align: center;
   padding: 17px;
+  color: #ffffff;
 }
 
 .title p {
   text-align: center;
+  color: #ffffff;
 }
 * {
     box-sizing: border-box;
