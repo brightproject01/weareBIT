@@ -84,7 +84,7 @@ img {
 }
 .title h2 {
     text-align: center;
-    color: #ffffff
+    color: #ffffff;
     padding-bottom:50px;
     padding-top:100px;
   }
@@ -97,7 +97,7 @@ img {
 
 .title p {
   text-align: center;
-  color: #ffffff
+  color: #ffffff;
 }
 * {
     box-sizing: border-box;
