@@ -85,6 +85,8 @@ img {
 .title h2 {
     text-align: center;
     color: #ffffff
+    padding-bottom:50px;
+    padding-top:100px;
   }
 
 .title h3 {
@@ -136,15 +138,7 @@ img {
     background-color: #239b76;
   }
   
-  .facebook {
-    background-color: #3b5998;
-    margin-right: 10px;
-  }
-  
-  .twitter {
-    background-color: #55acee;
-  }
-  
+ 
   .btn {
     padding: 12px 24px;
     color: white;
@@ -247,25 +241,7 @@ img {
     font-weight: normal;
   }
   
-  .message-wrapper {
-    border-bottom: 1px solid #eee;
-    padding-bottom: 80px;
-    text-align: center;
-  }
-  
-  .message {
-    padding: 15px 40px;
-    background-color: #5dca88;
-    cursor: pointer;
-    box-shadow: 0 7px #1a7940;
-  }
-  
-  .message:active {
-    position: relative;
-    top: 7px;
-    box-shadow: none;
-  }
-  
+ 
   footer img {
     width: 125px;
   }
@@ -292,7 +268,7 @@ footer {
     font-size: 30px;
 }
 
-.img {
+.img-lesson {
     width: 150px;
     height: 150px;
 }
