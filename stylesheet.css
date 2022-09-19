@@ -72,7 +72,7 @@ header {
 
 }
 
-img-logo {
+img {
     width: 150px;
     height:65px;
 }
@@ -294,7 +294,7 @@ footer {
     font-size: 30px;
 }
 
-img-lesson {
+.lesson-icon {
     width: 150px;
     height: 150px;
 }
