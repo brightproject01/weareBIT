@@ -219,7 +219,8 @@ img {
   }
   
   .lesson {
-    float: left;
+    color: #ffffff;
+     text-align: center;
     width: 25%;
   }
   
