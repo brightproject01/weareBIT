@@ -7,6 +7,7 @@ h1,h2,h3,h4,h5,h6,p,div {
 
 body {
     font-family: "Times New Roman";
+    margin: auto 0;
 }
 
 a{
@@ -189,9 +190,13 @@ footer {
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .lesson {
-    width: 50%;
+    width: 25%;
     margin-bottom: 50px;
   }
+}
+.header-list li {
+    width: 20%;
+    padding: 25px 5px;
 }
 
 .spasi{
