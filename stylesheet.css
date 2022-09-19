@@ -83,21 +83,17 @@ img {
     padding: 30px 80px;
 }
 .title h2 {
+    color: #000000;
     text-align: center;
-    color: #ffffff;
-    padding-bottom:50px;
-    padding-top:100px;
   }
 
 .title h3 {
   text-align: center;
   padding: 17px;
-  color: #ffffff
 }
 
 .title p {
   text-align: center;
-  color: #ffffff;
 }
 * {
     box-sizing: border-box;
@@ -138,7 +134,15 @@ img {
     background-color: #239b76;
   }
   
- 
+  .facebook {
+    background-color: #3b5998;
+    margin-right: 10px;
+  }
+  
+  .twitter {
+    background-color: #55acee;
+  }
+  
   .btn {
     padding: 12px 24px;
     color: white;
@@ -194,7 +198,7 @@ img {
   
   .lesson-wrapper {
     /* Hapus CSS untuk height */
-    padding-bottom: 150px;
+    padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
     text-align: center;
@@ -203,36 +207,29 @@ img {
   .heading {
     padding-top: 80px;
     padding-bottom: 50px;
-    color: #ffffff;
-    text-align: center;
+    color: #121013;
+    text-align: left;
     font-weight: 500;
   }
   
   .heading h2 {
-    text-align: center;
-    color: #ffffff;
-    padding-bottom:50px;
-    padding-top:100px;
+    font-weight: normal;
   }
   
-  .lessons {
-    color: #ffffff;
+  .lesson {
+    float: left;
     width: 25%;
   }
-
-   .lesson {
-     float: left;
-     width: 25%;
   
   .lesson-icon {
-    position: absolute;
-      
+    position: relative;
   }
   
   .lesson-icon p {
     position: absolute;
     top: 44%;
     width: 100%;
+    color: white;
   }
   
   .text-contents {
@@ -247,7 +244,25 @@ img {
     font-weight: normal;
   }
   
- 
+  .message-wrapper {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  
+  .message {
+    padding: 15px 40px;
+    background-color: #5dca88;
+    cursor: pointer;
+    box-shadow: 0 7px #1a7940;
+  }
+  
+  .message:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+  }
+  
   footer img {
     width: 125px;
   }
@@ -274,9 +289,8 @@ footer {
     font-size: 30px;
 }
 
-.img-lesson {
+img {
     width: 150px;
-    height: 150px;
 }
 
 .footer-list {
