@@ -198,6 +198,7 @@ img {
     padding-left: 5%;
     padding-right: 5%;
     text-align: center;
+    float: right;
   }
   
   .heading {
@@ -217,13 +218,14 @@ img {
   
   .lessons {
     color: #ffffff;
-     text-align: center;
+    text-align: center;
     width: 25%;
-      float:left;
+    float: left;
   }
   
   .lesson-icon {
     position: relative;
+      
   }
   
   .lesson-icon p {
