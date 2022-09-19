@@ -217,6 +217,8 @@ img {
   
   .heading h2 {
     font-weight: normal;
+    color: #ffffff;
+    text-align: center;
   }
   
   .lesson {
