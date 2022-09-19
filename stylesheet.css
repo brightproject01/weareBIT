@@ -220,6 +220,10 @@ img {
     width: 25%;
     float: left;
   }
+
+   .lesson {
+     float: left;
+     width: 25%;
   
   .lesson-icon {
     position: relative;
